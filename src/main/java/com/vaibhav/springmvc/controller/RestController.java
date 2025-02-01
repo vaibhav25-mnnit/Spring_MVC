@@ -1,4 +1,4 @@
-package com.vaibhav.springmvc.Controllers;
+package com.vaibhav.springmvc.controllers;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
